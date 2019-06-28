@@ -1,0 +1,15 @@
+Package: com.erhad.integer-overflow
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Erhad Husovic <erhad@neseco.ba>
+Filename: ./IntegerOverflow.deb
+Size: 2792
+MD5sum: 332654fd82e62808e3b560af54a6e82d
+SHA1: 1137668724ce11d2a914e7958f6669de89ba2f55
+SHA256: 03c8934ef86fbbf721c1edefca79f7d6280606ad57c204b23ce246968b31f8fb
+Section: Education
+Description: Showing how casting from larger value to smaller value can cause problems
+Homepage: http://www.karina.com
+Author: Erhad Husovic <erhad@neseco.ba>
+Depiction: http://www.karina.com
+Name: IntegerOverflow
